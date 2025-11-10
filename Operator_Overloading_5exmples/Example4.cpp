@@ -1,3 +1,4 @@
+//Access elements safely like an array but with boundary check.
 #include <iostream>
 using namespace std;
 
@@ -20,3 +21,4 @@ int main() {
     cout << a[2] << endl;   // Valid
     cout << a[6] << endl;   // Invalid
 }
+
