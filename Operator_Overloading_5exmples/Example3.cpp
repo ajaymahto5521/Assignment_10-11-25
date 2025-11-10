@@ -1,3 +1,4 @@
+//Compare two student objects by marks.
 #include <iostream>
 using namespace std;
 
@@ -16,3 +17,4 @@ int main() {
     cout << (s1 == s2 ? "Equal\n" : "Not Equal\n");
     cout << (s1 == s3 ? "Equal\n" : "Not Equal\n");
 }
+
