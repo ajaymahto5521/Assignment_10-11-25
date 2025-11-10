@@ -1,3 +1,4 @@
+//Use object as a callable function.
 #include <iostream>
 using namespace std;
 
@@ -12,3 +13,4 @@ int main() {
     Multiply mul;
     cout << mul(5, 6) << endl;   // acts like a function call
 }
+
