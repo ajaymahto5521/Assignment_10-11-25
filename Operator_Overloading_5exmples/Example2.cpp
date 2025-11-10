@@ -1,3 +1,4 @@
+//Increment a counter both ways.
 #include <iostream>
 using namespace std;
 
@@ -29,3 +30,4 @@ int main() {
     c++;    // Postfix
     c.display();
 }
+
